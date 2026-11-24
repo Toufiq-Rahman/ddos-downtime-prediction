@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "DDoS-Induced Server Downtime Prediction (Transformer-BiLSTM)"
+authors:
+  - family-names: Rahman
+    given-names: Md. Toufiqur
+  - family-names: Habib
+    given-names: Ahsan
+  - family-names: Munasinghe
+    given-names: Kumudu S.
+  - family-names: Hossain
+    given-names: Md Farhad
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Toward Resilient Network Security: A Deep Learning Approach to Predicting DDoS-Induced Server Downtime"
+  authors:
+    - family-names: Rahman
+      given-names: Md. Toufiqur
+    - family-names: Habib
+      given-names: Ahsan
+    - family-names: Munasinghe
+      given-names: Kumudu S.
+    - family-names: Hossain
+      given-names: Md Farhad
+  collection-title: "29th International Conference on Computer and Information Technology (ICCIT)"
+  publisher:
+    name: IEEE
+  year: 2026
